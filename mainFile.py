@@ -44,7 +44,7 @@ You will receive an input context in the form of a dictionary containing 'questi
 6. Suggest study material links from GeeksforGeeks, Tutorialspoint, or Javatpoint that the student should refer to for a better understanding of the topic, ensuring that the study material link is valid.
 7. If the answer does not address the question, mention what the student's answer is related to and explain what should be included in the answer to correctly address the question.
 8. Give advise to students in clear and easy-to-understand language, avoiding AI-generated jargon.
-9. Give specific details rather than general statements and avoid mentioning repeating points.
+9. Give specific details rather than general statements and avoid mentioning repeating points. Write advise in just 5-6 lines.
 10. If the question and answer are not related to software engineering, respond with "Please provide material regarding software engineering subject."
 11. You can refer to this format:
 
